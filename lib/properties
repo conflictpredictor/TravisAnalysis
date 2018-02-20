@@ -1,0 +1,4 @@
+login=<login>
+password=<password>
+token=<gitHubToken>
+pathGumTree=<localPathGumTree>
